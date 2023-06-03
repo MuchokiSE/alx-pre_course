@@ -1,1 +1,1 @@
-My first readme is hereby changed.  
+My first readme has rather changed.  
